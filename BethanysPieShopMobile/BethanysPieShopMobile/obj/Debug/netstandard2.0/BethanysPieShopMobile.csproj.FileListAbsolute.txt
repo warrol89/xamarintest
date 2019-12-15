@@ -1,0 +1,16 @@
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/bin/Debug/netstandard2.0/BethanysPieShopMobile.deps.json
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/bin/Debug/netstandard2.0/BethanysPieShopMobile.dll
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/bin/Debug/netstandard2.0/BethanysPieShopMobile.pdb
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.csprojAssemblyReference.cache
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.AssemblyInfoInputs.cache
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.AssemblyInfo.cs
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.dll
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.pdb
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/NavigationPageView.xaml.g.cs
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/warrol/MobileApp/xamarin-forms-applications-xaml/04/demos/start/layout/BethanysPieShopMobile/BethanysPieShopMobile/obj/Debug/netstandard2.0/BethanysPieShopMobile.csproj.CopyComplete

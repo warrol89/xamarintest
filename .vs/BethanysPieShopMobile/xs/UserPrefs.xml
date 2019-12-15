@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FD5654AC-E474-4FA5-97B9-DFF5009B68B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopMobile.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShopMobile/BethanysPieShopMobile/NavigationPageView.xaml.cs">
+    <Files>
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/MyPage.xaml.cs" Line="10" Column="16" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/App.xaml" Line="1" Column="1" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/App.xaml.cs" Line="16" Column="39" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/NavigationPageView.xaml" Line="3" Column="5" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/NavigationPageView.xaml.cs" Line="20" Column="10" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShopMobile/BethanysPieShopMobile/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShopMobile" expanded="True">
+            <Node name="BethanysPieShopMobile" expanded="True">
+              <Node name="MyPage.xaml" expanded="True" />
+              <Node name="NavigationPageView.xaml" expanded="True">
+                <Node name="NavigationPageView.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="BethanysPieShopMobile.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+            <Node name="BethanysPieShopMobile.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E610D06B-9BA0-4238-A3E3-2E529FC4FFD4" />
+</Properties>
